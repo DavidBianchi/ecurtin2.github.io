@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### The blog
 
-### More Information
+With this blog I'm hoping to make some useful, or at least interesting, posts about programming in python/Cython, and quantum chemistry. Hopefully I'll be able to do some fun stuff with Coffee or food as well!
 
-A place to include any other types of information that you'd like to include about yourself.
+### About Evan
+
+I'm a second year PhD student in computational chemistry at the University of Illinois @ Urbana-Champaign. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Suggested topics? Did I get something wrong? Let me know!
+[evanmcurtin@gmail.com](mailto:evanmcurtin@gmail.com)
