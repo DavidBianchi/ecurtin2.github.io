@@ -3,8 +3,10 @@ layout: post
 title: I set up a blog!
 ---
 
+And I'm testing syntax highlighting!
 
-{% highlight python linenos %}def f(x):
+{% highlight python linenos %}
+def f(x):
     return x + 3.0
 {% endhighlight %}
 
