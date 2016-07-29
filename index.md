@@ -2,4 +2,6 @@
 layout: page
 ---
 
-Home page as .md
+# Welcome to my website!
+
+Here I'll be talking about a few different things,
