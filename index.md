@@ -2,4 +2,4 @@
 layout: page
 ---
 
-Home page
+Home page as .md
