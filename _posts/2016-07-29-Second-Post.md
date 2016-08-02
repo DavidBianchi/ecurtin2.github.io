@@ -5,7 +5,7 @@ title: Testing what happens with two posts
 
 Maybe something more complex this time:
 
-{% highlight python %}
+{% highlight python linenos=table %}
 #Number of randomly generated pairs
 import numpy as np
 import matplotlib.pyplot as plt
