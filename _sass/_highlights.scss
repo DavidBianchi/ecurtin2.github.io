@@ -1,4 +1,17 @@
 
+pre {
+  border: solid 1px #ddd;
+  background: #fff;
+  padding: 0;
+  line-height: 23px;
+  margin-bottom: 30px;
+  white-space: pre;
+  overflow-x: auto;
+  word-break: inherit;
+  word-wrap: inherit;
+}
+
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
