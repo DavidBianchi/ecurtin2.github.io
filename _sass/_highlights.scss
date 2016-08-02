@@ -1,3 +1,4 @@
+/* Configure line number options */
 .gl { 
   background: #fafafa;
   border-right: 10px solid #ddd;
@@ -12,11 +13,10 @@
   user-select: none;
 }
 
-
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
+  border: 10px solid #ddd;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
