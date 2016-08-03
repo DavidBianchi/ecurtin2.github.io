@@ -76,7 +76,7 @@ code {
 .highlight .nv { color: #268BD2 } /* Name.Variable */
 .highlight .ow { color: $ec_lightpurple } /* Operator.Word */
 .highlight .w { color: #93A1A1 } /* Text.Whitespace */
-.highlight .mf { color: $ec_lightred } /* Literal.Number.Float */
+.highlight .mf { color: $ec_lightred; font-weight: bold } /* Literal.Number.Float */
 .highlight .mh { color: $ec_lightred } /* Literal.Number.Hex */
 .highlight .mi { color: $ec_lightred } /* Literal.Number.Integer */
 .highlight .mo { color: $ec_lightred } /* Literal.Number.Oct */
