@@ -23,5 +23,5 @@ for N in N_array:
 
 Whoa that was kinda neat!
 
-Does youtube embedding work? 800
-<iframe width="800" height="315" src="https://www.youtube.com/embed/2ovhbT-Iulc" frameborder="0" allowfullscreen></iframe>
+Does youtube embedding work? align
+<iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/2ovhbT-Iulc" frameborder="0" allowfullscreen></iframe>
