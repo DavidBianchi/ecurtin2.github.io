@@ -24,4 +24,4 @@ for N in N_array:
 Whoa that was kinda neat!
 
 Does youtube embedding work?
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=2ovhbT-Iulc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ovhbT-Iulc" frameborder="0" allowfullscreen></iframe>
