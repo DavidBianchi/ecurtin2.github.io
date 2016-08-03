@@ -53,8 +53,8 @@ code {
 .highlight .gt { color: #93A1A1 } /* Generic.Traceback */
 .highlight .kc { color: #CB4B16 } /* Keyword.Constant */
 .highlight .kd { color: #268BD2 } /* Keyword.Declaration */
-.highlight .kn { color: $ec_lightpurple; font-weight: bold  } /* Keyword.Namespace */
-.highlight .kp { color: $ec_lightpurple; font-weight: bold  } /* Keyword.Pseudo */
+.highlight .kn { color: $ec_lightyellow; font-weight: bold  } /* Keyword.Namespace */
+.highlight .kp { color: $ec_lightyellow; font-weight: bold  } /* Keyword.Pseudo */
 .highlight .kr { color: #268BD2 } /* Keyword.Reserved */
 .highlight .kt { color: #DC322F } /* Keyword.Type */
 .highlight .ld { color: #93A1A1 } /* Literal.Date */
@@ -70,11 +70,11 @@ code {
 .highlight .nf { color: #268BD2 } /* Name.Function */
 .highlight .nl { color: #93A1A1 } /* Name.Label */
 .highlight .nn { color: #93A1A1 } /* Name.Namespace */
-.highlight .nx { color: $ec_lightpurple; font-weight: bold  } /* Name.Other */
+.highlight .nx { color: $ec_lightyellow; font-weight: bold  } /* Name.Other */
 .highlight .py { color: #93A1A1 } /* Name.Property */
 .highlight .nt { color: #268BD2 } /* Name.Tag */
 .highlight .nv { color: #268BD2 } /* Name.Variable */
-.highlight .ow { color: $ec_lightpurple; font-weight: bold  } /* Operator.Word */
+.highlight .ow { color: $ec_lightyellow; font-weight: bold  } /* Operator.Word */
 .highlight .w { color: #93A1A1 } /* Text.Whitespace */
 .highlight .mf { color: $ec_lightred; font-weight: bold } /* Literal.Number.Float */
 .highlight .mh { color: $ec_lightred; font-weight: bold  } /* Literal.Number.Hex */
